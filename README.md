@@ -5,7 +5,7 @@
 
 **Simplify Tasks & Chores, Together!**
 
-Donetick is an open-source, user-friendly app designed to help you organize tasks and chores effectively. featuring customizable options to help you and others stay organized
+Donetick is an open-source, user-friendly app designed to help you organize tasks and chores effectively. Featuring customizable options to help you and others stay organized
 
 ![Screenshot](assets/screenshot.png)
 
